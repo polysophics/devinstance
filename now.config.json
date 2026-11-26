@@ -1,0 +1,6 @@
+{
+  "scope": "x_2312405_venue_hu",
+  "scopeId": "a7a65f5d833c5310593f58a6feaad37b",
+  "name": "Venue Hub",
+  "tsconfigPath": "./src/server/tsconfig.json"
+}
